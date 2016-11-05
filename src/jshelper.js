@@ -11,3 +11,9 @@ function extend(obj1, obj2){
 function isArray(arr){
     return toString.apply(arr) === '[object Array]';
 }
+
+function $$(selector, context){
+    context = context || document;
+    var elements = context.querySelectorAll(selector);
+    return Array.prototype.slice.call(elements);
+}
