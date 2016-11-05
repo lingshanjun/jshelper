@@ -1,0 +1,23 @@
+{
+  "name": "jshelper",
+  "version": "1.0.0",
+  "description": "common used js helper--function and so on",
+  "main": "src/jshelper.js",
+  "scripts": {
+    "test": "echo \" Test done \" && exit 0 "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lingshanjun/jshelper.git"
+  },
+  "keywords": [
+    "js",
+    "helper"
+  ],
+  "author": "lingshanjun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lingshanjun/jshelper/issues"
+  },
+  "homepage": "https://github.com/lingshanjun/jshelper#readme"
+}
