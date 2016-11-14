@@ -1,3 +1,6 @@
+/**
+ * 判断字符串中是否含有某个字符的方法，性能比较。
+ */
 var Benchmark = require('benchmark');
 var suite = new Benchmark.Suite;
 
