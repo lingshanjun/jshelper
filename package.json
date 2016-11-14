@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/lingshanjun/jshelper/issues"
   },
-  "homepage": "https://github.com/lingshanjun/jshelper#readme"
+  "homepage": "https://github.com/lingshanjun/jshelper#readme",
+  "dependencies": {
+    "benchmark": "^2.1.2"
+  }
 }
