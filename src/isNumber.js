@@ -2,7 +2,7 @@
 
 /**
  * FUNCTION:isNumber(value)
- *     validates if a value is a number (string primitive or string object, but NaN is not).
+ *     validates if a value is a number (number primitive or number object, but NaN is not).
  * @param  {*}  value [value to validate]
  * @return {Boolean}  [boolean indicating if a value is a number]
  */
