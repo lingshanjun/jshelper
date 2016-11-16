@@ -4,7 +4,7 @@
   "description": "common used js helper--function and so on",
   "main": "src/jshelper.js",
   "scripts": {
-    "test": "echo \" Test done \" && exit 0 "
+    "test": "./node_modules/.bin/mocha"
   },
   "repository": {
     "type": "git",
