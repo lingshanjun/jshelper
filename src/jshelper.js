@@ -8,10 +8,6 @@ function extend(obj1, obj2){
     return obj;
 }
 
-function isArray(arr){
-    return toString.apply(arr) === '[object Array]';
-}
-
 function $$(selector, context){
     context = context || document;
     var elements = context.querySelectorAll(selector);
